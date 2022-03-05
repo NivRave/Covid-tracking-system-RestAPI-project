@@ -7571,11 +7571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
       "projectName": "covidtracking.UnitTests",
-      "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
+      "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
       "packagesPath": "C:\\Users\\nivik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7596,8 +7596,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\covidtracking.csproj": {
-              "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\covidtracking.csproj"
+            "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\covidtracking.csproj": {
+              "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\covidtracking.csproj"
             }
           }
         }

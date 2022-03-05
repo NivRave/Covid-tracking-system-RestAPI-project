@@ -956,11 +956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\covidtracking.csproj",
+      "projectUniqueName": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\covidtracking.csproj",
       "projectName": "covidtracking",
-      "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\covidtracking.csproj",
+      "projectPath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\covidtracking.csproj",
       "packagesPath": "C:\\Users\\nivik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\obj\\",
+      "outputPath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

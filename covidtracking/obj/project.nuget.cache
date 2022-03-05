@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRAcQrMZwc3jLg7aA7eiGCjlePsaJl4yXWhz/gCxD7DFlP8iFLzPMQxrVzLNLaXwz0JNCoY7TFxLoZn4xVaBTw==",
+  "dgSpecHash": "TyLoyRgKuPS8799GrY9plq/G1bw7NrKQtNPelTLDafcbdVfXFyARGg0r/0qaMSt0y3A4S5I0Bhio3fY9mXvzRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking\\covidtracking.csproj",
+  "projectFilePath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking\\covidtracking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nivik\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.1\\aspnetcore.healthchecks.mongodb.6.0.1.nupkg.sha512",
     "C:\\Users\\nivik\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
