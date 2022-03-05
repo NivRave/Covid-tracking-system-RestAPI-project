@@ -99,7 +99,7 @@ BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
 //BsonSerializer.RegisterSerializer(new BsonDateTimeSerializer());      IS NEEDED??
 
-var mongoDbsettings = configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
+    var mongoDbsettings = configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
 
 builder.Services.AddSingleton<IMongoClient>(ServiceProvider =>
 {

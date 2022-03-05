@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqYsGvC/YF7h3mp1t44AS7a3t+Vc+pt7bZhDaZWqQZ47vVigd3Elh9Z4fcizu/zOyFXyZNg5Ug5y7tsiGKKdLw==",
+  "dgSpecHash": "c5Srmlc12jNOFpZp0urSqFLyOZMFLBAtmYHZg5F7+QKSIcZ4Pgw9KjQ10zqRsZzTT99oxl8jGJmxn2r1BltjTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nivik\\Desktop\\Github\\covidtrackingfinal\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\nivik\\Desktop\\Github\\Covid-tracking-system-RestAPI-project\\covidtracking.UnitTests\\covidtracking.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nivik\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.1\\aspnetcore.healthchecks.mongodb.6.0.1.nupkg.sha512",
     "C:\\Users\\nivik\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
